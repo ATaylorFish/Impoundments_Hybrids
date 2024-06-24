@@ -9,5 +9,5 @@ Repository contains R code analyses and data viz for black bass invasion and int
    
 2. hybriddetective analyses: Impound_hybriddetective folder and subfolders isolate different parental species pairs for evaluation of assignment power and NEWHYBRIDS hybrid classification of unknown wild fish. Contains both input data and R code for analyses.
 
-3. data viz:  InputData folder contains data, and code is stored in IntrogressPlots_Lanier_v9_3.R and IntrogressPlots_Tenkiller_v9_3.R for Case Study I and Case Study II, respectively.
+3. data viz:  Impound_dataviz folder contains subfolders for InputData and R code is stored in IntrogressPlots_Lanier_v9_3.R and IntrogressPlots_Tenkiller_v9_3.R for Case Study I and Case Study II, respectively.
 
